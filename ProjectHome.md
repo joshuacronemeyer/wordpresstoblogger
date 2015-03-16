@@ -1,0 +1,1 @@
+Migrated my blog from wordpress to blogger with this.
